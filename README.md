@@ -42,4 +42,4 @@ AppliedAIWorkshop_Final_Assignment.ipynb contains the code for the combined(Fina
 
 ## Credits
 The Code is part of the Applied AI Workshop at the given <a href="https://www.appliedaicourse.com/course/apparel-recommendation-engine-workshop">link</a>. It starts from the Basics of Python to Building a Recommender. Highly Recommended to check it out.<br>
-For any other queries/ if you want to get the course for free, feel free to reach out via Linkedin.
+For any other queries/ if you want to get the course for free<!--(Use Code:STUDENTS@AAIC)-->, feel free to reach out via Linkedin.
