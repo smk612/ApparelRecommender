@@ -37,8 +37,9 @@ The following Python Libraries are needed to run the code fully.<br>
 Note: If you find while executing even more libraries are required to be installed do let me know.
 
 ### Files
-AppliedAIWorkshop_mod.ipynb contains code that explores each of the techniques one by one. Also tells you how to combine them.<br>
-AppliedAIWorkshop_Final_Assignment.ipynb contains the code for the combined(Final) Recommender.
+<a href="AppliedAIWorkshop_mod.ipynb">AppliedAIWorkshop_mod.ipynb</a> contains code that explores each of the techniques one by one. Also tells you how to combine them.<br>
+<a href="AppliedAIWorkshop_Final_Assignment.ipynb">AppliedAIWorkshop_Final_Assignment.ipynb</a> contains the code for the combined(Final) Recommender.<br>
+Note: Most of the data referred to in these notebooks can be found only while doing the workshop. If you need the data, reach out to me.
 
 ## Credits
 The Code is part of the Applied AI Workshop at the given <a href="https://www.appliedaicourse.com/course/apparel-recommendation-engine-workshop">link</a>. It starts from the Basics of Python to Building a Recommender. Highly Recommended to check it out.<br>
