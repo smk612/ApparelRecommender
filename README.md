@@ -1,5 +1,5 @@
 # ApparelRecommender
-A Product Recommender using Amazon.com data
+A Product Recommender using Amazon.com data.
 
 ## Description
 A Product Recommendation System made in Python<br>
